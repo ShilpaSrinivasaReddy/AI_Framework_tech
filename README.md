@@ -49,7 +49,7 @@ RandomizedSearchCV is employed for hyperparameter tuning of Random Forest and De
 - Run the Jupyter Notebook or Python script
 
 ## Contributors
-Shilpa Srinivasareddy
+- [Shilpa Srinivasareddy](https://github.com/ShilpaSrinivasaReddy)
 
 
 
