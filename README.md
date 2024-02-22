@@ -132,7 +132,7 @@ Hyperparameter tuning played a crucial role in enhancing the Random Forest and D
 3. Explore the Jupyter notebooks in the `exam.ipynb/` file to understand the analysis process.
 
 ## Contributors
-- [shilpa srinivasareddy] (https://github.com/shilpasrinivasareddy/AI_framework_tech)
+- [shilpa srinivasareddy](https://github.com/shilpasrinivasareddy/AI_framework_tech)
 - [venu siddapura govindaraju](https://github.com/svenu38/AI_framework_tech)
 - Abhishek 
 - abdelelreheman
